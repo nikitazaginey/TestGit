@@ -10,6 +10,7 @@ namespace TestGit
             string line2 = "Text exapmle";
             string line3 = "line with text";
             string line4 = "example 4";
+            string line5 = "example 5";
         }
     }
 }
