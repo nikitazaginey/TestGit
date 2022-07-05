@@ -11,6 +11,7 @@ namespace TestGit
             string line3 = "line with text";
             string line4 = "example 4";
             string line5 = "example 5";
+            string line6 = "this text from TestGitClone";
         }
     }
 }
