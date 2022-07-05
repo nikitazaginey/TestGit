@@ -8,8 +8,9 @@ namespace TestGit
         {
             string line1 = "example 1";
             string line2 = "Text exapmle";
-            string line3 = "example 3";
+            string line3 = "EXAMPLE 3";
             string line4 = "example 4";
+            string line5 = "example 5";
         }
     }
 }
